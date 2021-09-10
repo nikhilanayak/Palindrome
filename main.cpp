@@ -5,6 +5,7 @@ int main()
 {
     char input[80]; // original input
     memset(input, 0, 80);
+    std::cout << "Input a string: ";
     std::cin.get(input, 80, '\n'); // read from stdin
     char clean[80];
     memset(clean, 0, 80);
