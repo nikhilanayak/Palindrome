@@ -1,3 +1,9 @@
+/*
+Written By: Nikhil Nayak
+Date: 10/20/21
+Description: Determines if an input (from stdin) is a Palindrome, ignoring non-alphabet characters. 
+*/
+
 #include <iostream>
 #include <cstring>
 
